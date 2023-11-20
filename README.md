@@ -1,16 +1,10 @@
 # tutorial_flutter
 
-A new Flutter project.
+My first flutter app.
 
-## Getting Started
+1 - 5:
+![Zrzut ekranu 2023-11-19 173550](https://github.com/Manhatai/Flutter_App/assets/131269530/34d91d60-f341-461c-8079-d0a1cf320254)
 
-This project is a starting point for a Flutter application.
+5 - 9:
+![obraz](https://github.com/Manhatai/Flutter_App/assets/131269530/a0ab01a3-0a83-409e-bd4b-526a370e0330)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
